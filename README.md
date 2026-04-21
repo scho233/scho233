@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**scho233/scho233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for checking out my page! Check out what I've been working on below!
 
-Here are some ideas to get you started:
+Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [WordleClone](https://github.com/scho233/WordleClone): My small version of the Wordle game played in terminal with better accessibility.
+
+Finished projects:
+
+ - Music Query Database: A program that shows you songs that contain specific lyrics.
+
+
