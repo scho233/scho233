@@ -8,6 +8,6 @@ Currently working on:
 
 Finished projects:
 
- - Music Query Database: A program that shows you songs that contain specific lyrics.
+ - Chicago traffic data: A program showing data for red and speed cameras like violations.
 
 
