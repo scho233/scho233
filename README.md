@@ -8,6 +8,6 @@ Currently working on:
 
 Finished projects:
 
- - Chicago traffic data: A program showing data for red and speed cameras like violations.
+ - [Chicago Traffic Data](https://github.com/scho233/Chicago-Traffic-Data/tree/main): A program showing data for red and speed cameras like violations.
 
 
